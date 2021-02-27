@@ -47,9 +47,7 @@ class extra():
  ╔═╗  ╔═╗  ╦     ╦  ╔═╗
  ║ ║  ╚═╗  ║     ║  ║ ╦
  ╚═╝  ╚═╝  ╩  {gr}o{cy}  ╩  ╚═╝
- 
-        {gr}Code By :
-  {gr}youtube.com/theunknon{nu}
+
 	            """)
 
 class main():
