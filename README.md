@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ALBINPRAVEEN/osi.ig/blob/main/.lib/20191103_233944.jpg?raw=true" width="300" height="120">
+  <img src="https://instagram.fcok10-1.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/155235768_273833734139974_2417452675757866425_n.jpg?tp=1&_nc_ht=instagram.fcok10-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=c-DgyanP83MAX-w_VkG&oh=d3fae8b869e4092b94e6d7d880e9d560&oe=606863FB&ig_cache_key=MjUyMDM3MTU4NTIzNjY0NDg0MA%3D%3D.2" width="300" height="120">
 </p>
 
  
