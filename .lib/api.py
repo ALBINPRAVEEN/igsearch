@@ -47,7 +47,7 @@ class extra():
  ╔═╗  ╔═╗  ╦     ╦  ╔═╗
  ║ ║  ╚═╗  ║     ║  ║ ╦
  ╚═╝  ╚═╝  ╩  {gr}o{cy}  ╩  ╚═╝
-
+BY ALBY
 	            """)
 
 class main():
