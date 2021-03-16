@@ -26,7 +26,7 @@ from just looking at their profile
 
 `$ pkg install -y git`
 
-`$ git clone https://github.com/ALBINPRAVEEN/osi.ig`
+`$ git clone https://github.com/ALBINPRAVEEN/igsearch`
 
 `$ chmod +x install.sh && ./install.sh`
 
